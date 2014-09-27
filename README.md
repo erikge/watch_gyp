@@ -15,7 +15,7 @@ Steps to sync
 
 1. git clone https://github.com/erikge/watch_gyp.git
 2. git remote add gyp https://git.chromium.org/git/external/gyp.git
-3. git pull gyp
+3. git pull gyp master
 4. [modify conflict if needed]
 5. git push origin master
 6. [done]
